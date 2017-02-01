@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<persons>
+	<client id="0">
+		<first_name>Michel</first_name>
+		<last_name>Drucker</last_name>
+		<old>74 ans</old>
+		<job>Animateur de télévision et de radio</job>
+		<phone>0102030405</phone>
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet error voluptatibus quia nemo officiis magnam cupiditate, pariatur quod obcaecati officia maiores tenetur numquam laboriosam reiciendis iure eos ullam ad. Ipsam!</description>
+	</client>
+	<client id="1">
+		<first_name>Chantal</first_name>
+		<last_name>Goya</last_name>
+		<old>74 ans</old>
+		<job>Animatrice de télévision</job>
+		<phone>0607080910</phone>
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet error voluptatibus quia nemo officiis magnam cupiditate, pariatur quod obcaecati officia maiores tenetur numquam laboriosam reiciendis iure eos ullam ad. Ipsam!</description>
+	</client>
+	<client id="2">
+		<first_name>Patrick</first_name>
+		<last_name>Poivre d'Arvor</last_name>
+		<old>69 ans</old>
+		<job>Animateur de télévision et écrivain</job>
+		<phone>1112131415</phone>
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet error voluptatibus quia nemo officiis magnam cupiditate, pariatur quod obcaecati officia maiores tenetur numquam laboriosam reiciendis iure eos ullam ad. Ipsam!</description>
+	</client>
+	<client id="3">
+		<first_name>Jean-Pierre</first_name>
+		<last_name>Foucault</last_name>
+		<old>69 ans</old>
+		<job>Animateur de télévision et de radio</job>
+		<phone>1617181920</phone>
+		<description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet error voluptatibus quia nemo officiis magnam cupiditate, pariatur quod obcaecati officia maiores tenetur numquam laboriosam reiciendis iure eos ullam ad. Ipsam!</description>
+	</client>
+</persons>
